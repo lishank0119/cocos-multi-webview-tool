@@ -1,0 +1,18 @@
+export default {
+    OPEN_WEBVIEW: "open-webview",
+    REFRESH_WEBVIEW_LIST: "refresh-webview-list",
+    CHANGE_WEBVIEW_URL: "change-webview-url",
+    GET_WEBVIEW_LIST: "get-webview-list",
+    UPDATE_WEBVIEW_INFO: "update-webview-info",
+    REGISTER_WEBVIEW_INFO: "register-webview-info",
+    GET_WEBVIEW_PRELOAD_PATH: "get-webview-preload-path",
+    OPEN_WEBVIEW_DEV_TOOLS: "open-webview-dev-tools",
+    GAME_MONITOR: "game-monitor",
+    GET_GAME_MONITOR_BY_WEBVIEW: "get-game-monitor-by-webview",
+    CLEAN_GAME_MONITOR: "clean-game-monitor",
+    SEND_MESSAGE_TO_WEBVIEW: "send-message-to-webview",
+    UPDATE_MONITOR: "update-monitor",
+    GET_WEBVIEW_LAYOUT_SETTING: "get-webview-layout-setting",
+    UPDATE_WEBVIEW_LAYOUT_SETTING: "update-webview-layout-setting",
+    BROADCAST_WEBVIEW_LAYOUT_SETTING: "broadcast-webview-layout-setting",
+}
